@@ -72,16 +72,8 @@ Our essay generation strategies focus on:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Kaggle for hosting the competition
 - Competition organizers for the interesting challenge
-
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-Project Link: [https://github.com/your-username/llm-essay-divergence](https://github.com/your-username/llm-essay-divergence)
