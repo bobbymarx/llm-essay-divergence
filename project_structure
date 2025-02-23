@@ -1,0 +1,13 @@
+llm-disagreement-competition/
+├── data/
+│   ├── test.csv
+│   └── sample_submission.csv
+├── src/
+│   ├── __init__.py
+│   ├── essay_generator.py
+│   ├── prompt_strategies.py
+│   └── utils.py
+├── notebooks/
+│   └── exploration.ipynb
+├── requirements.txt
+└── README.md 
